@@ -1,1 +1,1 @@
-# public-lammu-app
+# LAMMU-APP
